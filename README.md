@@ -31,10 +31,10 @@ Secrets behave as encoded-64 configmaps. From a security perspective, they have 
 
 # Reference
 
-Name | URL
-- | -
-Configuring Application | https://blog.openshift.com/configuring-your-application-part-1/
-Configuration with Application Promotion | https://blog.openshift.com/configuring-your-application-part-2/
-Integration with Vault | https://blog.openshift.com/managing-secrets-openshift-vault-integration/
-Environment dependent properties management | https://blog.openshift.com/environment-dependent-property-management-strategies-openshift-pipelines/
-Promoting applications across environments | https://blog.openshift.com/promoting-applications-across-environments/
+| Name | URL |
+| --- | --- |
+| Configuring Application | https://blog.openshift.com/configuring-your-application-part-1/ |
+| Configuration with Application Promotion | https://blog.openshift.com/configuring-your-application-part-2/ |
+| Integration with Vault | https://blog.openshift.com/managing-secrets-openshift-vault-integration/ |
+| Environment dependent properties management | https://blog.openshift.com/environment-dependent-property-management-strategies-openshift-pipelines/ |
+| Promoting applications across environments | https://blog.openshift.com/promoting-applications-across-environments/ |
